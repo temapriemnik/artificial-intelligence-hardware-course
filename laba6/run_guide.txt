@@ -1,0 +1,4 @@
+chmod +x run_tests.sh
+./run_tests.sh
+
+you will get output of tests woth coverage in %
